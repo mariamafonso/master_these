@@ -2,9 +2,7 @@
 
 ## Collaborative SLAM System for Intelligent Wheelchairs ##
 
-###### Abstract available ######
-
-###### Theses finished | To be uploaded ######
+###### Theses finished | To be uploaded | *Abstract available* ######
 
 
 **Research areas:** Robotics and Computational Intelligence
