@@ -2,6 +2,8 @@
 
 ## Collaborative SLAM System for Intelligent Wheelchairs ##
 
+###### Abstract available ######
+
 ###### Theses finished | To be uploaded ######
 
 
