@@ -19,4 +19,4 @@ Mariam Afonso (mariam.afonso@gmail.com)
 ###### Federal University of Rio de Janeiro – UFRJ   |   Informatics Post-Graduate Program – PPGI   |   Computational Intelligence Lab – LabIC ######
 
 ***
-2015
+###### 2015 ######
