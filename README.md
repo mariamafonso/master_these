@@ -17,3 +17,6 @@ This work proposes a system to support the collaborative mapping among intellige
 Mariam Afonso (mariam.afonso@gmail.com)
 
 ###### Federal University of Rio de Janeiro – UFRJ   |   Informatics Post-Graduate Program – PPGI   |   Computational Intelligence Lab – LabIC ######
+
+***
+2015
