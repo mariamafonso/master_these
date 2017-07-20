@@ -14,7 +14,7 @@ This work proposes a system to support the collaborative mapping among intellige
 
 
 ### Contact info ###
-Mariam Afonso (mariam.afonso@gmail.com)
+Mariam Afonso (m a r i a m . a f o n s o @ g m a i l . c o m)
 ###### Repository available at [Bitbucket](https://bitbucket.org/mariamafonso/master_theses) and [GitHub](https://github.com/mariamafonso/master_theses) ######
 
 
